@@ -66,11 +66,17 @@ content:
          # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
         description: | # this will include new lines to allow paragraphs
             •	Designed and implemented secure software development pipelines using Git, Jenkins, Maven, and Gradle, resulting in a 30% reduction in release time and improved code quality.
+            
             •	Design, build, and maintain infrastructure for development, testing, and production environments using Docker, Kubernetes, and other containerization technologies.
+            
             •	Implement security best practices into the development process, including code scanning, vulnerability assessment, and penetration testing using tools such as Nexus IQ, Sonarqube, and GitLab.
+            
             •	Worked on implementing DevSecOps best practices, including code analysis using SonarQube, Nexus IQ, and Integration Testing.
+            
             •	Automated deployment and infrastructure management using Docker, Kubernetes, and Octopus Deploy.
+            
             •	Improved security posture by implementing security controls such as network segmentation, identity and access management, and threat monitoring.
+            
             •	Collaborated with cross-functional teams, including developers, QA, and security teams, to ensure the successful deployment of applications.
             •	Developed scripts using Python and Shell scripting to automate routine tasks.
             •	Collaborate with development teams to identify and resolve technical issues related to software delivery and deployment.
