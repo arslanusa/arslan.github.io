@@ -78,17 +78,116 @@ content:
             •	Improved security posture by implementing security controls such as network segmentation, identity and access management, and threat monitoring.
             
             •	Collaborated with cross-functional teams, including developers, QA, and security teams, to ensure the successful deployment of applications.
+            
             •	Developed scripts using Python and Shell scripting to automate routine tasks.
+            
             •	Collaborate with development teams to identify and resolve technical issues related to software delivery and deployment.
+            
             •	Develop and maintain automation scripts using scripting languages such as Python, Bash, and Groovy.
+            
             •	Participate in cross-functional teams to ensure that security and compliance requirements are met throughout the software development lifecycle.
+            
             •	Provide training and guidance to development teams on DevOps tools, processes, and best practices.
+            
             •	Experience in deploying infrastructure as a code in Azure using Terraform through GitHub Actions.
+            
             •	Creating CI/CD workflows and Actions in GitHub Actions
             
-            Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
+          
+        Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
 
-
+    content:
+      - layout: left
+        title: BNY MELLON - Manhattan, NY		
+        link: https://www.bnymellon.com/
+        # link_text: boringcompany.com
+        sub_title: DevOps Engineer
+        caption: March 2021 - January 2023
+        #quote: >
+         # Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        description: | # this will include new lines to allow paragraphs
+            •	Worked on Azure Web Apps for hosting many Web Applications, RESTful APIs, and mobile backends developed in .NET which can run and scale in various Windows Environments and Linux Environments.
+            
+            •	Created a Virtual Network on Windows Azure to connect several on-premises servers. 
+            
+            •	Used BOTO and Fabric for launching and deploying instances in AWS Lambda, Hands on Experience in writing JSON REST APIs using Golang.
+            
+            •	Helped front-end web applications team with the development using ReactJS, VueJS, and AngularJS
+            
+            •	Built and maintained Docker images for containerization of applications.
+            
+            •	Implemented CI/CD pipelines using Jenkins and Azure DevOps
+            
+            •	Worked with SQL and NoSQL databases to support web applications.
+            
+            •	Managed and monitored cloud infrastructure and services using Azure Monitor and Azure Log Analytics
+            
+            •	Collaborated with cross-functional teams to support software development and release.
+            
+            •	Involved in File Manipulations, File Uploads using NodeJS.
+            
+            •	Automated AWS infrastructure using Chef, Docker, and Jenkins and managed software.
+            
+            •	Implemented cluster logging and monitoring across application deployment servers using AppDynamics and Splunk to externalize the application logging.
+            
+            •	Implemented CI/CD solutions to deploy to the target environments. Responsible for creating the Continuous Integration and Delivery pipelines by integrating Jenkins with Maven, Docker, and GitHub and AWS.
+            
+            •	Used Ansible to build automation pipeline and Continuous Deployment for code using Jenkins and wrote Ansible Playbooks to automate Ansible Servers using YAML scripting.
+            
+            •	Worked on administrating GIT server and Continuous Integration system like Jenkins and handled issues from onshore and offshore developers.
+            
+            •	Used PowerShell and Python scripting to automate procedures for automated deployment in Linux/UNIX based systems.
+            
+            •	Experience in deploying infrastructure as a code in AWS using Terraform, CloudFormation and AWS SDKs like python, NodeJS & PowerShell.
+            
+            •	Extensively used Shell, Python scripting to automate build and release process.
+            
+            •	Designed and implemented application using Spring Boot, Spring MVC, Spring IOC, Spring Annotations, Spring AOP, Spring Transactions and Spring JDBC.
+            
+            •	Created post commit and pre-push hooks using Bash in SVN and GIT repos.
+            
+            •	Extensive involvement in Designing Azure Resource Manager Template and in designing custom build steps using PowerShell.
+            
+            •	Configured AWS IAM policies for users’ roles using JSON and adding project users to the AWS account with Multi-Factor authentication enabled and to protect data at transit used Transport Layer Security Protocol.
+            
+            •	Designed Architectural Diagrams for different applications before migrating into Amazon cloud for flexible, cost- effective, reliable, scalable, high-performance and secured.
+            
+            •	Build servers using AWS: Importing volumes, launching EC2, creating security groups, auto-scaling, load balancers, Route 53, SES and SNS in the defined virtual private connection. 
+            
+            •	Defined AWS Security Groups which acted as virtual firewalls that controlled the traffic allowed to reach one or more AWS EC2 instances.
+            
+            •	Developed API for using AWS Lambda to manage the servers and run the code in the AWS and Gitflow methodology.
+            
+            •	Deploying EC2 instances, ELBs by using Cloud Formation in AWS and Managing S3 buckets and bucket policies.
+            
+            •	Worked on release management and deployment tools like AWS Code Pipeline, Cloud Formation, AWS Code Deploy.
+            
+            •	Experienced in OpenShift and Rancher platform in managing Docker Containers, Kubernetes Clusters and implemented load balanced, highly available, fault-tolerant Kubernetes infrastructure and created Jenkins jobs to deploy applications to Kubernetes Cluster. 
+            
+            •	Worked with monitoring tool Nagios to identify and resolve infrastructure critical processes and integrated application logs with Splunk and wrote custom Splunk queries for alerting.
+            
+            •	Implemented Spring boot microservices to process the messages into the Kafka cluster setup and Continuous Delivery pipeline with Docker, Jenkins, octopus and GitHub.
+            
+            •	Configured applications that run multi-container Docker applications by utilizing the Docker-Compose tool which uses a file configured in YAML format. Used Kubernetes to manage containerized applications using its nodes, Config-Maps, selector, Services and deployed application containers as Pods. 
+            
+            •	Configured and maintained Jenkins and octopus to implement the CI/CD process and integrated tool with GIT, Maven, Nexus repository, Docker, Nagios and Jira for end-to-end automation.
+            
+            •	Worked in Ansible for a Configuration Management (CM) to automate daily tasks.
+            
+            •	Troubleshooting issues by viewing logs monitoring.  Also, applying periodic updates, patches to servers.
+            
+            •	Setup Jenkins jobs for Continuous integration process and to execute test cases. 
+            
+            •	Developing a Continuous Delivery (CD) pipeline with Jenkins by writing groovy scripts 
+            
+            •	Designed and developed Cloud Service projects and deployed to Web Apps, PaaS, and IaaS.
+            
+            •	Configured SQL Server Master Data Services (MDS) in Windows Azure IaaS.
+            
+            •	Experience in deploying infrastructure as a code in Azure using Terraform through GitHub Actions.
+            
+        Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
+  
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
