@@ -73,9 +73,8 @@ content:
 
 
           Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
-        content: null
-      - layout: top-left
-        title: BNY MELLON - Manhattan, NY
+     content:
+      - title: BNY MELLON - Manhattan, NY
         link: https://www.bnymellon.com/
         sub_title: DevOps Engineer
         caption: March 2021 - January 2023
