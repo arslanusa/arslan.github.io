@@ -96,8 +96,6 @@ content:
           
         Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
 
-    content:
-      - layout: left
         title: BNY MELLON - Manhattan, NY		
         link: https://www.bnymellon.com/
         # link_text: boringcompany.com
