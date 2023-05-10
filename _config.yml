@@ -93,10 +93,9 @@ content:
             
             •	Creating CI/CD workflows and Actions in GitHub Actions
             
-          
-          Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
+            Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
 
-        title: BNY MELLON - Manhattan, NY		
+      - title: BNY MELLON - Manhattan, NY		
         link: https://www.bnymellon.com/
         # link_text: boringcompany.com
         sub_title: DevOps Engineer
@@ -184,7 +183,8 @@ content:
             
             •	Experience in deploying infrastructure as a code in Azure using Terraform through GitHub Actions.
             
-          Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
+            
+            Environments:  Git, Maven, Gradle, Jenkins, GitHub Actions, Azure, Kubernetes, Docker, Octopus Deploy, OpenShift, Nexus IQ, SonarQube, Terraform
   
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
